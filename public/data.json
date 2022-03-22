@@ -1,0 +1,79 @@
+[
+    {
+        "id": "62385d29677913901af7a0c7",
+        "isActive": true,
+        "balance": "$2,823.03",
+        "picture": "http://placehold.it/32x32",
+        "price": 484,
+        "eyeColor": "blue",
+        "name": "Carney Alvarez",
+        "gender": "male",
+        "company": "GEEKOSIS"
+    },
+    {
+        "id": "62385d29aea6f12212b57250",
+        "isActive": true,
+        "balance": "$3,308.23",
+        "picture": "http://placehold.it/32x32",
+        "price": 439,
+        "eyeColor": "green",
+        "name": "Greer Moore",
+        "gender": "male",
+        "company": "ACUSAGE"
+    },
+    {
+        "id": "62385d29cfeae07aca188102",
+        "isActive": true,
+        "balance": "$1,419.14",
+        "picture": "http://placehold.it/32x32",
+        "price": 590,
+        "eyeColor": "green",
+        "name": "Garcia Daniels",
+        "gender": "male",
+        "company": "QIMONK"
+    },
+    {
+        "id": "62385d299554d63ffe44f7a1",
+        "isActive": false,
+        "balance": "$2,221.32",
+        "picture": "http://placehold.it/32x32",
+        "price": 433,
+        "eyeColor": "blue",
+        "name": "Allison Williams",
+        "gender": "female",
+        "company": "STOCKPOST"
+    },
+    {
+        "id": "62385d297f8229778bfd9a4d",
+        "isActive": true,
+        "balance": "$1,104.81",
+        "picture": "http://placehold.it/32x32",
+        "price": 431,
+        "eyeColor": "green",
+        "name": "Lester Callahan",
+        "gender": "male",
+        "company": "ADORNICA"
+    },
+    {
+        "id": "62385d29ea85614a042b7448",
+        "isActive": false,
+        "balance": "$2,901.70",
+        "picture": "http://placehold.it/32x32",
+        "price": 456,
+        "eyeColor": "blue",
+        "name": "Stout Mathews",
+        "gender": "male",
+        "company": "CEMENTION"
+    },
+    {
+        "id": "62385d29851f6b03c8a98b6d",
+        "isActive": false,
+        "balance": "$2,583.00",
+        "picture": "http://placehold.it/32x32",
+        "price": 485,
+        "eyeColor": "green",
+        "name": "Chase Calderon",
+        "gender": "male",
+        "company": "ECSTASIA"
+    }
+]
